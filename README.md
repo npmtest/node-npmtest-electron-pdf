@@ -1,6 +1,6 @@
 # npmtest-electron-pdf
 
-#### test coverage for  [electron-pdf (v1.3.0)](https://github.com/fraserxu/electron-pdf)  [![npm package](https://img.shields.io/npm/v/npmtest-electron-pdf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-electron-pdf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-electron-pdf.svg)](https://travis-ci.org/npmtest/node-npmtest-electron-pdf)
+#### basic test coverage for  [electron-pdf (v1.3.0)](https://github.com/fraserxu/electron-pdf)  [![npm package](https://img.shields.io/npm/v/npmtest-electron-pdf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-electron-pdf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-electron-pdf.svg)](https://travis-ci.org/npmtest/node-npmtest-electron-pdf)
 
 #### A command line tool to generate PDF from URL, HTML or Markdown files
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-electron-pdf/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-electron-pdf/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-electron-pdf/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-electron-pdf/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-electron-pdf/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-electron-pdf/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-electron-pdf/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-electron-pdf/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-electron-pdf/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-electron-pdf/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-electron-pdf/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-electron-pdf/build/coverage.html/index.html)
 
